@@ -5,7 +5,10 @@
 <br/>
 
 # Descrição
-"PingPong" é um projeto que visa criar uma plataforma onde um usuário poderá jogar Ping Pong contra a máquina. A partida finaliza quando o placar chega 5 pontos para um dos players. A velocidade da bola é atualizada a cada ponto para aumentar a dificuldade do jogo.
+"PingPong" é uma plataforma onde um usuário poderá jogar Ping Pong contra a máquina. Meu objetivo com esse projeto foi treinar JavaScript Orientado a Objetos.
+- Placar eletrônico
+- A velocidade da bola aumenta a cada ponto marcado
+- A partida finaliza quando um dos jogadores chega em 5 pontos
 
 <br/>
 
