@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-image: url('../imagens/fundo.jpg');
+    background-size: cover;
+}
+
+.score {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    font-size: 72px;
+    margin: auto;
+    padding: 20px 0;
+}
+
+.score > span {
+    background-color: rgba(0, 0, 0, 0.178);
+    padding: 0 20px;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer .direitos {
+    font-size: .8rem;
+    font-weight: 600;
+    color: #000;
+}
