@@ -1,4 +1,4 @@
-# Projeto - Link Me
+# Projeto - Ping Pong
 - Meu **Sétimo** Projeto 
 - Plataforma para jogar Ping Pong.
 
