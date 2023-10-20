@@ -129,7 +129,7 @@ const ball = {
     directionY: 1,
     _calcPosition: function() {
         // verifica se o jogador 1 fez um ponto (x > largura do campo)
-        if (this.x > field.w - this.r() - rightPaddle.w - gapX) {
+        if (this.x > field.w - this.r() - rightPaddle.w - gapX - 15) {
             // verifica se a raquete direita está na posição y da bola
             if (
                 this.y + this.r() > rightPaddle.y &&
@@ -146,7 +146,7 @@ const ball = {
         }
 
         // verifica se o jogador 2 fez um ponto (x < 0)
-        if (this.x < this.r() + leftPaddle.w + gapX) {
+        if (this.x < this.r() + leftPaddle.w + gapX + 15) {
             // verifica se a raquete esquerda está na posição y da bola
             if (
                 this.y + this.r() > leftPaddle.y &&
