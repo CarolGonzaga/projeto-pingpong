@@ -1,5 +1,5 @@
 # Projeto - Ping Pong
-- Meu **Sétimo** Projeto 
+- Meu **7º** Projeto 
 - Plataforma para jogar Ping Pong.
 
 <br/>
